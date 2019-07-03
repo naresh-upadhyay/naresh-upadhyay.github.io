@@ -1,0 +1,15 @@
+.img-fluid{
+    z-index: -100;
+    /* width: 100%;
+    height: 400px; */
+}
+.text-center{
+    align-content: center;
+    margin-top: -20%;
+}
+.alignb{
+    margin-top: -5px;
+    margin-left: 42%;
+    margin-right: 45%;
+    -moz-box-align: center;
+}
